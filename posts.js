@@ -1,18 +1,18 @@
 const posts = [
   {
-    titolo: "Viaggio in Cina", contenuto: "", immagine: "", tags: ["#cina","#travels","#"]
+    titolo: "Ricetta ciambellone", contenuto: "contenuto1", immagine:"public/ciambellone.jpeg", tags: ["ciambellone","buono","zuccheri"]
   },
   {
-    titolo: "Viaggio in Cina", contenuto: "", immagine: "", tags: ["#cina","#travels","#"]
+    titolo: "Ricetta pane fritto dolce", contenuto: "contenuto2", immagine: "public/pane_fritto_dolce.jpeg", tags: ["fritto","dolce","pane"]
   },
   {
-    titolo: "Viaggio in Cina", contenuto: "", immagine: "", tags: ["#cina","#travels","#"]
+    titolo: "pasta alla barbabietola", contenuto: "contenuto3", immagine: "public/pasta_barbabietola.jpeg", tags: ["pasta","barbabietola","dieta"]
   },
   {
-    titolo: "Viaggio in Cina", contenuto: "", immagine: "", tags: ["#cina","#travels","#"]
+    titolo: "torta paesana", contenuto: "contenuto4", immagine: "public/torta_paesana.jpeg", tags: ["torta","paesana","cibo"]
   },
   {
-    titolo: "Viaggio in Cina", contenuto: "", immagine: "", tags: ["#cina","#travels","#"]
+    titolo: "cracker barbabietola", contenuto: "contenuto5", immagine: "public/cracker_barbabietola.jpeg", tags: ["cracker","barbabietola","grassi-saturi"]
   }
 ]
 
